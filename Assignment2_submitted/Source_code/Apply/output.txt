@@ -1,0 +1,4 @@
+		ECE1733 - Switching Theory - Assignment 2 
+		 Reduced Ordered Binary Decision Diagram.
+Reading file node1.blif...
+Done.
